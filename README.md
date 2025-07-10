@@ -8,9 +8,9 @@
     
 <h2> EDA (Using AlexTheAnalyst Github) </h2>
 
-  *   finding out the layoffs in differnet industry
-  *   finding out the layoffs ayoffs in different company
-  *   finding out the total number of layoffs per year, per month
+  *   Finding out the layoffs in differnet industry
+  *   Finding out the layoffs ayoffs in different company
+  *   Finding out the total number of layoffs per year, per month
     
 <h2> Data Analysis (Using Northwind database) </h2>
   
